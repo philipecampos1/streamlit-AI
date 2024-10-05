@@ -19,8 +19,8 @@ This project demonstrates how to integrate AI with Streamlit, allowing you to in
 **Streamlit**: Web framework for creating interactive user interfaces.
 
 ![SQLite](https://img.icons8.com/?size=50&id=1476&format=png&color=000000)
-
 **SQLite**: Lightweight database for simple data storage.
+
 ## Environment Variables
 To run this project, you will need to add the following environment variables to your .env file:
 
