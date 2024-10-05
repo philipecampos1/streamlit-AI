@@ -14,8 +14,10 @@ This project demonstrates how to integrate AI with Streamlit, allowing you to in
 
 ![Python](https://img.icons8.com/?size=50&id=qBvOwZw81tVy&format=png&color=000000)
 **Python**: Programming language for backend logic.
+
 ![Streamlit](https://img.icons8.com/?size=50&id=9pAKclTpHTMC&format=png&color=000000)
 **Streamlit**: Web framework for creating interactive user interfaces.
+
 ![SQLite](https://img.icons8.com/?size=50&id=1476&format=png&color=000000)
 
 **SQLite**: Lightweight database for simple data storage.
